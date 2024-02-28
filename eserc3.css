@@ -1,0 +1,32 @@
+body{
+    font-style: italic;
+    background-color:bisque;
+
+}
+.Logo{
+    text-align:center;
+    display: block;
+}
+.Titolo{
+    text-shadow: 1px 1px 2px red, 0 0 1em blue, 0 0 0.2em blue;
+}
+.Paragrafo{
+    text-align: center;
+    color: red;
+}
+.Foto-Uova{
+    text-align: center;
+}
+.Paragrafo2{
+    text-align: center;
+}
+.Ingredienti{
+    text-align: center;
+}
+.Metodo{
+    text-align: center;
+}
+.Footer{
+    text-align: center;
+}
+h1 { font-size: 2.4em; } 
